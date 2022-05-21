@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2HimDG3HtWbF2Kg6Piwe4NqE17Dt9SePHbifENDChgWPtEC4WeCQnpDNTpiFmlo3AnlPXBnF2G1QtTx0KNDTVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bpal1\\OneDrive\\Desktop\\.net\\ConsoleToWebAPI\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bpal1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
